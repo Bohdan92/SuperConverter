@@ -1,25 +1,22 @@
 function sum(a, b) {
-    var result = +a + +b;        
-   console.log(result);
-   alert(result);
+   var result = +a + +b;        
+      alert(result);
 
 }
-//sum(1, 2);
 
-/**function multiplication(a, b) {
+function multiplication(a, b) {
     var result = a * b;
-    console.log(result);
+    alert(result);
 }
-multiplication(89, 10);
+
 
 function division(a, b) {
     var result = a / b;
-    console.log(result);
+    alert(result);
 }
-division(56, 4);
+
 
 function subtraction(a, b) {
     var result = a - b;
-    console.log(result);
+    alert(result);
 }
-subtraction(98, 5);**/
